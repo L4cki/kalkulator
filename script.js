@@ -230,17 +230,17 @@ $("resetBtn").addEventListener(
 
         const defaults = {
 
-            filament: 350,
+            filament: 100,
 
             filamentPrice: 50,
 
-            printTime: 3,
+            printTime: 1,
 
-            power: 350,
+            power: 160,
 
             electricityPrice: 1.20,
 
-            machineCost: 3.50,
+            machineCost: 1.50,
 
             margin: 60,
 
